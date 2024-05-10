@@ -19,7 +19,7 @@ LangGraph plays a crucial role in orchestrating the assistant's functionality. I
 
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone <repository-url>
+    gh repo clone varunkarnati/Travel_assistant
     ```
 
 2. **Install the required dependencies**:
