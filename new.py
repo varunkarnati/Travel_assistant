@@ -26,13 +26,13 @@ fare_table = {
 }
 
 # Define constants
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "your_api_key"
 PROJECT = "Demos"
 # TAVILY_API_KEY = "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"
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = "your_api_key"
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
-RAPIDAPI_KEY = "d978cd6a3bmsh4351a47d8425e4bp114b3bjsn11185d973e02"
+RAPIDAPI_KEY = "your_api_key"
 current_time = datetime.now().strftime("%H:%M:%S")
 today = date.today()
 
